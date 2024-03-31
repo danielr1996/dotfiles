@@ -5,3 +5,10 @@
 [user]
 	name = Daniel Richter
 	email = me@danielrichter.codes
+[alias]
+	l = log --oneline
+	c = commit -asm
+	p = push
+	s = status‚
+	am = commit --amend -CHEAD .
+	wipe = restore .
