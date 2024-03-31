@@ -4,6 +4,7 @@ tap "homebrew/bundle"
 # Dev Packages
 brew "git"
 cask "jetbrains-toolbox"
+brew "podman"
 
 # Social and Entertainment
 cask "spotify"
