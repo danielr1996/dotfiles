@@ -1,8 +1,0 @@
-tap "homebrew/bundle"
-brew "git"
-cask "bitwarden"
-cask "firefox"
-cask "jetbrains-toolbox"
-cask "logi-options-plus"
-cask "rectangle"
-cask "spotify"
