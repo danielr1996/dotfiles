@@ -13,3 +13,5 @@
 	cam = commit --amend -CHEAD .
 	wipe = restore .
  	undo = reset HEAD^
+[pull]
+	rebase = true
