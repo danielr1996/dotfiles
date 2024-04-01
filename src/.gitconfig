@@ -10,5 +10,6 @@
 	c = commit -asm
 	p = push
 	s = status‚
-	am = commit --amend -CHEAD .
+	cam = commit --amend -CHEAD .
 	wipe = restore .
+ 	undo = reset HEAD^

@@ -4,7 +4,7 @@ tap "homebrew/bundle"
 # Dev Packages
 brew "git"
 cask "jetbrains-toolbox"
-brew "podman"
+cask "docker"
 
 # Social and Entertainment
 cask "spotify"
@@ -18,22 +18,13 @@ cask "logi-options-plus"
 cask "rectangle"
 brew "stow"
 
-# Podman
 # Figma
-# OpenLens
-# Postman
 # Cyberduck
-# Kubectl
 # Krew
-# Kubens kubectx
 # Kubectl Konfiguration/ kubemerge
 # Pv-migrate
-# Helm
 #	✓	Flux
-#	✓	Fzf
 #	✓	Node nvm
-#	✓	Gradle
-#	✓	Quality of Life
 #	✓	Hidden Bar
 #	✓	Iterm2
 #	✓	Ohmyzsh
