@@ -13,5 +13,6 @@
 	cam = commit --amend -CHEAD .
 	wipe = restore .
  	undo = reset HEAD^
+ 	t = "!f() { git tag -am \"$1\" \"$1\";git push origin \"$1\";  }; f"
 [pull]
 	rebase = true

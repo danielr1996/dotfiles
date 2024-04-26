@@ -1,0 +1,12 @@
+# Base Homebrew
+tap "homebrew/bundle"
+brew "mas"
+
+# Office
+mas "Bitwarden", id: 1352778147
+cask "firefox"
+cask "figma"
+cask "blender"
+cask "spotify"
+cask "microsoft-teams"
+cask "discord"
